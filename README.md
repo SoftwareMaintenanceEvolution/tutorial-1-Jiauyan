@@ -1,1 +1,12 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/O-1AGqKT)
+# Hi! I'm Jiau Yan
+
+I'm a student enrolled in the Software Maintenance and Evolution course. I'm eager to learn about modern software maintenance practices and how to handle legacy systems.
+
+- **Fun Fact**: I enjoy watching drama during my free time.
+- **Course Expectations**: To gain practical experience in maintaining and evolving software systems.
+
+![My Image](jiauyan.jpg)
+
+## GitHub Profile
+
+You can check out my GitHub profile [here](https://github.com/Jiauyan/Jiauyan).
